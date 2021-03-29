@@ -4,9 +4,9 @@ Simple Money Transaction Application code using Java
 **1. Brief explanation about the system transition**
 
 *Whether or not the application should accept the request to transfer money between different account depends on three factors:*
-*1. Whether the user is authorized to use the money transfer application.*
-*2. Whether the OTP input by the user matches.*
-*3. Whether the user has sufficient money to proceed with the transaction.*
+1. Whether the user is authorized to use the money transfer application.
+2. Whether the OTP input by the user matches.
+3. Whether the user has sufficient money to proceed with the transaction.
 
 **2. State Transition table**
 
