@@ -10,14 +10,14 @@ Simple Money Transaction Application code using Java
 
 **2. State Transition table**
 
-Condition                      | L1 | L2 | L3 | L4 
------------------------------- | -- | -- | -- | --
-1. Authorized user?            | F  |  T |  T |  T
-2. OTP match?                  | X  |  F |  T |  T
-3. Sufficient money available? | X  | X  | F  |  T
-Action                         | A1 | A2 | A3 | A4 
------------------------------- | -- | -- | -- | --
-1. Accept                      | X  | X  | X  |  / 
-2. Reject                      | /  | /  | /  |  X
+|Condition|L1|L2|L3|L4|
+|---|---|---|---|---|
+|1. Authorized user?|F|T|T|T|
+|2. OTP match?|-|F|T|T|
+|3. Sufficient money available?|-|-|F|T|
+|Action|A1|A2|A3|A4| 
+|---|---|---|---|---|
+|1. Accept|-|-|-|/| 
+|2. Reject|/|/|/|-|
 
 **3. State transition diagram**
