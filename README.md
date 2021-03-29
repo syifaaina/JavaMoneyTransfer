@@ -21,4 +21,4 @@ Simple Money Transaction Application code using Java
 
 **3. State transition diagram**
 
-State Table.png
+https://github.com/syifaaina/JavaMoneyTransfer/blob/301d4256b93423394e82a728505a9fc3ec0f2278/State%20Table.png
