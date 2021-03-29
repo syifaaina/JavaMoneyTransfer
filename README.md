@@ -20,3 +20,5 @@ Simple Money Transaction Application code using Java
 |2. Reject|/|/|/|-|
 
 **3. State transition diagram**
+
+State Table.png
