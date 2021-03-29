@@ -15,8 +15,7 @@ Simple Money Transaction Application code using Java
 |1. Authorized user?|F|T|T|T|
 |2. OTP match?|-|F|T|T|
 |3. Sufficient money available?|-|-|F|T|
-|Action|A1|A2|A3|A4| 
-|---|---|---|---|---|
+|**Action|A1|A2|A3|A4**| 
 |1. Accept|-|-|-|/| 
 |2. Reject|/|/|/|-|
 
