@@ -1,6 +1,9 @@
 # JavaMoneyTransfer
 Simple Money Transaction Application code using Java
 
+Name: Nur Syifa' Aina bt Zahaimi
+Matric Number : 1817794
+
 **1. Brief explanation about the system transition**
 
 *Whether or not the application should accept the request to transfer money between different account depends on three factors:*
