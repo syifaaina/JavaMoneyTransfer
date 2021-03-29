@@ -16,7 +16,6 @@ Condition | L1 | L2 | L3 | L4
 2. OTP match? | - | F | T | T
 3. Sufficient money available? | - | - | F | T
 Action | A1 | A2 | A3 | A4 
---------- | -- | -- | -- | --
 1. Accept | - | - | - | / 
 2. Reject | / | / | / | -
 
